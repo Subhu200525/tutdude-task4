@@ -6,6 +6,7 @@
 /* full screen size */
 body{
     height:100vh;
+    overflow:hidden;
 }
 /* container space */
 .container{
