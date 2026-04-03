@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    overflow: hidden;
+}
+.container{
+    /* border: 2px solid black; */
+    width: 50vw;
+     height: 80vh;
+    margin: 10vh auto;
+}
+.container img{
+    /* border: 2px solid black; */
+    display: block;
+    width: 100%;
+}
+button{
+    background: linear-gradient(to right,orange, lightgreen);
+    width:100% ;
+    display: block;
+    font-family: "Playwrite IE", cursive;
+}
