@@ -22,3 +22,8 @@ button{
     display: block;
     font-family: "Playwrite IE", cursive;
 }
+button:hover{
+   cursor: pointer;
+   opacity: 0.8;
+   color: white;
+}
